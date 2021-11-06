@@ -2,6 +2,9 @@
 #include <stdinfo.h>
 #include <gtk/gtk.h>
 
+void int foo() {
+}
+
 void main(void) {
 	scanf("valore %d",&i);
 	printf("Hello World");
@@ -11,3 +14,4 @@ void main(void) {
 	printf("My branch new");
 
 }
+
