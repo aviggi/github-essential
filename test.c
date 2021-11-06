@@ -2,5 +2,9 @@
 #include <stdinfo.h>
 #include <gtk/gtk.h>
 
-void main2(void) {
+void main(void) {
+	printf("Hello World");
+	printf("My branch");
+	printf("My branch");
+
 }
