@@ -3,4 +3,5 @@
 #include <gtk/gtk.h>
 
 void main2(void) {
+	scanf("valore %d",&i);
 }
