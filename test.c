@@ -12,6 +12,6 @@ void main(void) {
 	printf("My branch");
 	printf("My branch new");
 	printf("My branch new");
-
+	exit(0);
 }
 
