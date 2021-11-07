@@ -27,6 +27,20 @@ void int foo13() {
 }
 //Commit C14
 void int foo14() {
+//Commit C2
+void int foo3() {
+}
+//Commit C4
+void int foo4() {
+}
+//Commit C7
+void int foo7() {
+}
+//Commit C8
+void int foo8() {
+}
+//Commit C11
+void int foo11() {
 }
 
 void main(void) {
