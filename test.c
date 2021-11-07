@@ -16,6 +16,9 @@ void int foo3() {
 //Commit C4
 void int foo4() {
 }
+//Commit C7
+void int foo7() {
+}
 
 void main(void) {
 	scanf("valore %d",&i);
